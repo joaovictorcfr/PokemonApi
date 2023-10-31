@@ -1,0 +1,31 @@
+.container_footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(to top, #ff0808, #ffef09);
+  color: #fff;
+  height: 150px;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid #ff0808;
+}
+
+.container_footer h2 {
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.container_footer p{
+  font-size: 10px;
+}
+
+.links ul {
+  list-style: none;
+}
+
+.links a {
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 20px;
+  color: #fff;
+}
